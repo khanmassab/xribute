@@ -10,14 +10,32 @@ app/storage/
 # Laravel 5 & Lumen specific
 public/storage
 public/hot
+<<<<<<< HEAD
 
 # Laravel 5 & Lumen specific with changed public path
 public_html/storage
 public_html/hot
 
+=======
+>>>>>>> 25a792d (first)
 storage/*.key
 .env
 Homestead.yaml
 Homestead.json
 /.vagrant
+<<<<<<< HEAD
 .phpunit.result.cache
+=======
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+/.idea
+/.vscode
+composer.lock
+./composer.lock
+>>>>>>> 25a792d (first)
